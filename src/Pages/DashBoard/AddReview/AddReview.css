@@ -1,0 +1,19 @@
+.addReview form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addReview input, textarea {
+    width: 75%;
+    padding: 7px;
+    margin-top: 10px;
+}
+
+.bg-feedback {
+    background-color: #232946;
+    color: #ffffff;
+    padding: 6px 0;
+    font-weight: 700;
+}

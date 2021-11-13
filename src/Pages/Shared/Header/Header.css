@@ -1,0 +1,63 @@
+.header {
+    background-color: #faeee7f3 !important;
+    padding: 0;
+}
+
+.logo-head {
+    color: #232946;
+    font-weight: 600;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 10px;
+}
+
+.logo-head span {
+    color: #b8c1ec;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-style {
+    letter-spacing: 1.2px;
+    color: #232946;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+    font-family: sans-serif;
+    transition: all .2s linear;
+}
+
+.link-style:hover {
+    padding: 8px 12px;
+    background-color: #33272a;
+    color: rgb(252, 252, 252);
+}
+
+.login {
+    border-radius: 5px;
+    padding: 8px 12px;
+    background-color: #33272a;
+    color: rgb(252, 252, 252);
+}
+
+.login-2 {
+    padding: 8px 12px;
+    background-color: #33272a;
+    color: rgb(252, 252, 252);
+}
+
+.login-2:hover {
+    background-color: #fafafa;
+    color: #33272a;
+}
+
+.buttonAll {
+    padding: 8px 12px;
+    background-color: #33272a;
+    color: rgb(252, 252, 252);
+}
+
+.buttonAll:hover {
+    background-color: #fafafa;
+    color: #33272a;
+}

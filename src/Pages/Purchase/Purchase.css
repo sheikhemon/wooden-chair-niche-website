@@ -1,0 +1,13 @@
+.purchase-image {
+    height: 250px;
+    width: 300px;
+    margin: auto;
+}
+
+.btn-purchase {
+    background-color: #232946;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 6px 10px;
+    margin-top: 20px;
+}

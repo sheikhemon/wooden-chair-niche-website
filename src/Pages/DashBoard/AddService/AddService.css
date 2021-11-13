@@ -1,0 +1,19 @@
+.addService form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addService input, textarea {
+    width: 75%;
+    padding: 7px;
+    margin-top: 10px;
+}
+
+.submit-bg {
+    background-color: #232946;
+    color: #ffff;
+    font-weight: 700;
+    padding: 8px 0;
+}

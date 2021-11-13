@@ -1,0 +1,32 @@
+.footer {
+    background-color: #33272a;
+}
+
+.li-style {
+    color: #c3f0ca;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.li-style:hover {
+    color: #ffffff;
+}
+
+.footer-heading {
+    font-size: 25px;
+    color: #faeee7;
+}
+
+.icon-footer i {
+    color: #f8f6f6 !important;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all .3s linear;
+}
+
+.icon-footer i:hover {
+    color: #c3f0ca !important;
+}

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dashbord {
+    background-color: #232946;
+    text-decoration: none;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 100px;
+    padding-bottom: 134px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.nested {
+    text-decoration: none;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.logoutBtn {
+    margin: 40px 0;
+    text-align: center;
+    color: white;
+    background-color: rgba(255, 99, 71, 0);
+    border: 1px solid #ffffff;
+    padding: 5px 5px;
+    border-radius: 0px;
+    font-weight: 700;
+}
+
+.logoutBtn:hover {
+    background-color: rgb(255, 255, 255);
+    color: #232946;
+}
